@@ -81,41 +81,42 @@ html, body {
 }
 
 h1 {
-	font-family: oskar-inline, sans-serif;
+	font-family: cursive;
     font-weight: 400;
     font-style: normal;
-	font-size: 2em;
-    margin: 0px auto 10px auto;
+	font-size: 4em;
+    margin: 10px auto 10px auto;
     color: #fff;
 }
 
 h2 {
-	font-family: sans-serif;
+	font-family: serif;
     font-weight: 400;
     font-style: normal;
-	font-size: 1.5em;
+	font-size: 2em;
     line-height: 1.4;
     color: #fff;
     padding: 0px 0px;
-    margin: 0px auto 25px auto;
+    margin: 50px auto 25px auto;
 }
 
 p {
-	font-family: dico-mono-script, mono;
+	font-family: serif;
     font-weight: 400;
     font-style: normal;
 	font-size: 1.2em;
     line-height: 1.6;
     color: #fff;
+    margin: 70px 20px 0px 20px;
 }
     
 nav{
-    font-family: sans-serif;
+    font-family: serif;
     font-size: 1.2em;
     width: 80%;
     margin: 0 auto;
     text-align: center;
-    margin-top: 2em;
+    margin-top: 1em;
     } 
 
 nav li{
