@@ -63,7 +63,7 @@ html, body {
   background: url(images/dark_wood_background.jpg)
       center center fixed no-repeat;
     background-size: cover;
-    font-family: sans-serif;	
+    font-family: serif;	
 }
 
 .center {
@@ -83,8 +83,8 @@ html, body {
 h1 {
 	font-family: cursive;
     font-weight: 400;
-    font-style: normal;
-	font-size: 4em;
+    font-style: cursive;
+	font-size: 5em;
     margin: 10px auto 10px auto;
     color: #fff;
 }
@@ -113,6 +113,7 @@ p {
 nav{
     font-family: serif;
     font-size: 1.2em;
+    font-style: normal;
     width: 80%;
     margin: 0 auto;
     text-align: center;
