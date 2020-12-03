@@ -81,42 +81,46 @@ html, body {
 }
 
 h1 {
-	font-family: cursive;
+	font-family: "Times New Roman";
     font-weight: 400;
-    font-style: cursive;
-	font-size: 5em;
+    font-style: normal;
+	font-size: 6em;
     margin: 10px auto 10px auto;
-    color: #fff;
+    color: #d9d2b0;
 }
 
 h2 {
-	font-family: serif;
+	font-family: "helvetica";
     font-weight: 400;
     font-style: normal;
-	font-size: 2em;
+	font-size: 4em;
     line-height: 1.4;
     color: #fff;
     padding: 0px 0px;
-    margin: 50px auto 25px auto;
+    float: left;
+    margin: 50px 50px 100px 50px;
+    text-align: left;
 }
 
 p {
-	font-family: serif;
+	font-family: "courier";
     font-weight: 400;
     font-style: normal;
 	font-size: 1.2em;
     line-height: 1.6;
     color: #fff;
-    margin: 70px 20px 0px 20px;
+    text-align: left;
+    margin: 20px 20px 0px 20px;
 }
     
 nav{
-    font-family: serif;
+    font-family: "helvetica";
     font-size: 1.2em;
     font-style: normal;
     width: 80%;
     margin: 0 auto;
     text-align: center;
+    float: bottom;
     margin-top: 1em;
     } 
 
@@ -126,16 +130,17 @@ nav li{
 
 nav a{
     display: inline-block;
-    padding: 10px
+    padding: 30px
+
     }
 
 a{
-    color: #fff;
+    color: #d9d2b0;;
     text-decoration: none;
     font-weight: normal;
     }
 
 a:hover{
-    color:black;
+    color: #988986;
     background:#e6fff2;
     }
