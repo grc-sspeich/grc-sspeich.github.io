@@ -10,7 +10,6 @@ h1, h2 {
 h1 {
     font-family: serif;
     color: rgb(142,65,46);
-    text-align: center;
     text-transform: capitalize;
     font-size: 1.5em;
     padding-top: 1em;
@@ -19,7 +18,6 @@ h1 {
 h2 {
     color: rgb(187,110,76);
     font-family: sans-serif;
-    text-align: center;
     text-transform: uppercase;
     font-size: 3.5em; /*65px/16=4.0625em*/
     letter-spacing: 0.5em;
@@ -31,7 +29,6 @@ h3 {
     font-weight: lighter;
     text-transform: uppercase;
     background-color: rgb(142,65,46);
-    text-align: center;
     letter-spacing: 0.5em;
 }
 h4 {
