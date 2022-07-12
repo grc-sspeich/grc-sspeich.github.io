@@ -1,0 +1,117 @@
+/*CSS document*/
+
+body {
+    background-color: #ffffff;
+    font-family: quincy-cf, sans-serif
+    font-style: normal;
+    font-weight: 200;
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+figure {
+    margin: 0;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+    padding: 1em 0em 0em 0em;
+    margin: 0em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul {
+    border-bottom: 1.5px solid;
+    border-top: 1.5px solid;
+    padding: 1em 1em 1em 0em;
+    color: #989E8B;
+}
+
+nav ul li {
+    display: inline;
+    padding: 0.5em;
+    text-transform: uppercase;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #283618;
+}
+
+.mainstory {
+    background: #eee3dd;
+    padding: 0em 1em 1em 1em;
+    margin: 0;
+}
+.mainstory a{
+    text-decoration: none;
+}
+
+.mainstory h3 {
+    text-decoration: none;
+    font-family: articulat-cf, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #BC6C25;
+}
+.image_article {
+    padding: 0em 1em 1em 1em;
+    margin: 0;
+}
+
+.image_article a{
+    text-decoration: none;
+}
+
+.image_article h3 {
+    text-decoration: none;
+    font-family: articulat-cf, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #283618;
+}
+.article {
+    padding: 0em 1em 0em 1em;
+    margin: 0;
+}
+
+.article a{
+    text-decoration: none;
+}
+
+.article h3 {
+    text-decoration: none;
+    font-family: articulat-cf, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #283618;
+}
+h2 {
+    text-decoration: none;
+    font-family: articulat-cf, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #283618;
+    padding: 0em 1em 0em 1em;
+}
+
+p {
+    padding: 1em 1em 0em 1em;
+    color: rgb(0,0,0);
+}
+
+figcaption {
+    padding: 1em;
+}
