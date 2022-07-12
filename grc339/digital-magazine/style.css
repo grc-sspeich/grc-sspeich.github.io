@@ -2,7 +2,7 @@
 
 body {
     background-color: #ffffff;
-    font-family: quincy-cf, sans-serif
+    font-family: quincy-cf, sans-serif;
     font-style: normal;
     font-weight: 200;
 }
@@ -108,8 +108,8 @@ h2 {
 }
 
 p {
-    padding: 1em 1em 0em 1em;
     color: rgb(0,0,0);
+    padding-bottom: 1em;
 }
 
 figcaption {
